@@ -1,0 +1,6 @@
+Make an anaconda environment by importing opencv and numpy
+run the "Setting my color" code 
+then adjust the bars so that you only see the desired color and the rest of things appear black
+then copy the output and paste it in the mycolor array of paint.py
+then enter the BGR value of the color you want to get drawn on the screen in newColor array
+then run your code paint.py
